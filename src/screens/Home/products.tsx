@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { ClassType, SelectedPage } from '../../shared/types'
 import   Image3 from "../../assets/images/WAXED.png"
 import   Image2 from "../../assets/images/jumbo_Paper_cone.jpg"
